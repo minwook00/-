@@ -1,0 +1,72 @@
+{
+  "tasks": [
+    {
+      "id": "20260518123207-k0rx",
+      "title": "Deep Navy와 Warm Peach의 대비가 명확하여 브랜드 톤(전문적이면서 친근함)이 유지되는가?",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-05-18T12:32:07.307Z",
+      "status": "done",
+      "sessionDir": "2026-05-18T11-25",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-18T11-25/_report.md\n- Researcher: 이전에 재실행 중인 고객 사례 데이터(M3/M4 집중) 수집을 즉시 완료하고, 확보된 데이터를 Writer에게 전달할 준비를 완료하세요.\n- Writer: Researcher가 제공하는 고강도 고객 사례 데이터를 기반으로 '가치관 충돌 → 심리 지표 → 해결 전략' 프레임워크에 따른 유튜브 영상 최\n- Designer: Writer의 스크립트 초안 작업에 맞춰, Deep Navy/Warm Peach 디자인 시스템을 적용한 영상 시각 자료(차트, 레이아웃)의 구체\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 이전에 재실행 중인 고객 사례 데이터(M3/M4 집중) 수집을 즉시 완료하고, 확보된 데이터를 Writer에게 전달할 준비를 완료하세요.\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **",
+      "completedAt": "2026-05-18T12:39:53.412Z"
+    },
+    {
+      "id": "20260518123207-hzt2",
+      "title": "심리 지표 차트(M1~M4)는 복잡하지 않고, 시청자가 즉시 내면을 투영할 수 있는가?",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-05-18T12:32:07.308Z",
+      "status": "done",
+      "sessionDir": "2026-05-18T11-25",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-18T11-25/_report.md\n- Researcher: 이전에 재실행 중인 고객 사례 데이터(M3/M4 집중) 수집을 즉시 완료하고, 확보된 데이터를 Writer에게 전달할 준비를 완료하세요.\n- Writer: Researcher가 제공하는 고강도 고객 사례 데이터를 기반으로 '가치관 충돌 → 심리 지표 → 해결 전략' 프레임워크에 따른 유튜브 영상 최\n- Designer: Writer의 스크립트 초안 작업에 맞춰, Deep Navy/Warm Peach 디자인 시스템을 적용한 영상 시각 자료(차트, 레이아웃)의 구체\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 이전에 재실행 중인 고객 사례 데이터(M3/M4 집중) 수집을 즉시 완료하고, 확보된 데이터를 Writer에게 전달할 준비를 완료하세요.\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **",
+      "completedAt": "2026-05-18T12:39:53.414Z"
+    },
+    {
+      "id": "20260518123207-hnit",
+      "title": "전체 레이아웃은 '문제 제기 $\\rightarrow$ 진단 $\\rightarrow$ 해결'의 논리적 흐름을 시각적으로 따르는가?",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-05-18T12:32:07.309Z",
+      "status": "done",
+      "sessionDir": "2026-05-18T11-25",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-18T11-25/_report.md\n- Researcher: 이전에 재실행 중인 고객 사례 데이터(M3/M4 집중) 수집을 즉시 완료하고, 확보된 데이터를 Writer에게 전달할 준비를 완료하세요.\n- Writer: Researcher가 제공하는 고강도 고객 사례 데이터를 기반으로 '가치관 충돌 → 심리 지표 → 해결 전략' 프레임워크에 따른 유튜브 영상 최\n- Designer: Writer의 스크립트 초안 작업에 맞춰, Deep Navy/Warm Peach 디자인 시스템을 적용한 영상 시각 자료(차트, 레이아웃)의 구체\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 이전에 재실행 중인 고객 사례 데이터(M3/M4 집중) 수집을 즉시 완료하고, 확보된 데이터를 Writer에게 전달할 준비를 완료하세요.\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **",
+      "completedAt": "2026-05-18T12:39:53.416Z"
+    },
+    {
+      "id": "20260518123207-fsc3",
+      "title": "썸네일 디자인 컨셉과 본 영상의 비주얼 언어가 일관성 있는가? (다음 단계에서 썸네일 작업을 위해 이 브리프를 활용할 것임)",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-05-18T12:32:07.310Z",
+      "status": "done",
+      "sessionDir": "2026-05-18T11-25",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-18T11-25/_report.md\n- Researcher: 이전에 재실행 중인 고객 사례 데이터(M3/M4 집중) 수집을 즉시 완료하고, 확보된 데이터를 Writer에게 전달할 준비를 완료하세요.\n- Writer: Researcher가 제공하는 고강도 고객 사례 데이터를 기반으로 '가치관 충돌 → 심리 지표 → 해결 전략' 프레임워크에 따른 유튜브 영상 최\n- Designer: Writer의 스크립트 초안 작업에 맞춰, Deep Navy/Warm Peach 디자인 시스템을 적용한 영상 시각 자료(차트, 레이아웃)의 구체\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 이전에 재실행 중인 고객 사례 데이터(M3/M4 집중) 수집을 즉시 완료하고, 확보된 데이터를 Writer에게 전달할 준비를 완료하세요.\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **",
+      "completedAt": "2026-05-18T12:39:53.418Z"
+    }
+  ]
+}
